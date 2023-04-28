@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some EDA stuff<br>👯 I’m looking to collaborate on Data Analytical Project<br>🌱 I’m currently learning Data analytics from Masai School<br>💬 Ask me about  Data, Machine Learning, Statistics, Python 
+🔭 I’m currently working on some EDA stuff<br>👯 I’m looking to collaborate on Data Analytical Project<br>🌱 I’m currently learning Data analytics from Masai School<br>💬 Ask me about  Data Visualization, Data Warehousing, Data Manupulation
 
 
 # 💻 Tech Stack:
