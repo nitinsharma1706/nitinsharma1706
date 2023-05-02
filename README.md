@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Feature Engineering**
 
-- 🌱 I’m currently learning **MongoDB,OOPs,Machine Learning**
+- 🌱 I’m currently learning **MongoDB, OOPs, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Business Problems**
 
