@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Nitinsharma1706@gmail.com**
 
-- 📄 Know more about me [[https://drive.google.com/file/d/1JlLhLAMpnhGbJqYb1HR-uyh3K1OemGZy/view?usp=share_link](https://drive.google.com/file/d/1JlLhLAMpnhGbJqYb1HR-uyh3K1OemGZy/view?usp=share_link)](https://drive.google.com/file/d/1y7zELO9LTOB_RmKtvVfX6bkDYUF-LSbh/view?usp=share_link)
+- 📄 Know more about me https://drive.google.com/file/d/1y7zELO9LTOB_RmKtvVfX6bkDYUF-LSbh/view?usp=share_link
 
 
 <h3 align="left">Languages and Tools:</h3>
