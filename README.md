@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsharma1706&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarshajapurkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsharma1706&label=Profile%20views&color=0e75b6&style=flat" alt="Nitinsharma" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Feature Engineering**
 
