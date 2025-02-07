@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinsharma1706&label=Profile%20views&color=0e75b6&style=flat" alt="Nitinsharma" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Feature Engineering**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing and Prompt Engineering**
 
-- 🌱 I’m currently learning **MongoDB, OOPs, Machine Learning**
+- 🌱 I’m currently learning **Gen AI, Langchain, LLMs**
 
 - 👯 I’m looking to collaborate on **Business Problems**
 
